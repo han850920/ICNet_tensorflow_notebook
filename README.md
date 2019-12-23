@@ -24,4 +24,4 @@ source tf2_venv/bin/activate
 jupyter notebook
 ```
 
-(labelme github)[labelme(https://github.com/wkentaro/labelme/tree/master/examples/tutorial]標注圖片用
+(labelme github)[https://github.com/wkentaro/labelme/tree/master/examples/tutorial] 標注圖片用
