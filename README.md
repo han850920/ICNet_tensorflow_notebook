@@ -13,9 +13,9 @@ The referenced project from [hellochick](https://github.com/hellochick/ICNet-ten
 bash setup.py
 ```
 
-2. 接著開啟virtualenv
+2. 接著activate virtualenv
+
 ```
-cd tf2_venv
 source tf2_venv/bin/activate
 ```
 
