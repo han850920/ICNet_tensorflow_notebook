@@ -28,4 +28,4 @@ https://drive.google.com/file/d/1oif6nSjTaSeALfki0AnP2-Puv1nh8UHS/view?usp=shari
 jupyter notebook
 ```
 
-(labelme github)[https://github.com/wkentaro/labelme/tree/master/examples/tutorial] 標注圖片用
+[labelme github](https://github.com/wkentaro/labelme/tree/master/examples/tutorial) 標注圖片用
