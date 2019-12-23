@@ -23,7 +23,7 @@ source tf2_venv/bin/activate
 
 https://drive.google.com/file/d/1oif6nSjTaSeALfki0AnP2-Puv1nh8UHS/view?usp=sharing
 
-4. 最後開啟jupyter notebook即可服用
+4. 最後開啟ICNet_tf2.ipynb即可服用
 ```
 jupyter notebook
 ```
