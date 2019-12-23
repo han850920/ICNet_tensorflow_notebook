@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "/home/min/semantic_seg/ICNet-tensorflow_self/train.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--update-mean-var", "--train-beta-gamma","--random-scale", "--random-mirror", "--dataset", "others", "--filter-scale","1"
+
+            ]
+        }
+    ]
+}
