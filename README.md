@@ -5,21 +5,23 @@ The origin [ICNet](https://github.com/hszhao/ICNet)
 
 The referenced project from [hellochick](https://github.com/hellochick/ICNet-tensorflow) in tensorflow 1.x.
 
-請先利用 setup.py 建立virtualenv, 同時pip install 所需的package
+## Setup
+
+1. 請先利用 setup.py 建立virtualenv, 同時pip install 所需的package
 
 ```
 bash setup.py
 ```
 
-接著開啟virtualenv
+2. 接著開啟virtualenv
 ```
 cd tf2_venv
 source tf2_venv/bin/activate
 ```
 
-下載自行建立的flooding dataset: 
+3. 請下載自行建立的flooding dataset: https://drive.google.com/file/d/1oif6nSjTaSeALfki0AnP2-Puv1nh8UHS/view?usp=sharing
 
-最後開啟jupyter notebook即可服用
+4. 最後開啟jupyter notebook即可服用
 ```
 jupyter notebook
 ```
